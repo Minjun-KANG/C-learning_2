@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\과제 12주차\main.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  과제 12주차.vcxproj -> C:\Users\ansal\OneDrive\Desktop\university office\2018-1학기\python\과제 12주차\과제 12주차\Debug\과제 12주차.exe
