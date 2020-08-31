@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\ansal\source\repos\실습9주차\실습9주차\main.c(32): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+  func.c
+c:\users\ansal\source\repos\실습9주차\실습9주차\func.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\source\repos\실습9주차\실습9주차\func.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\source\repos\실습9주차\실습9주차\func.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\ansal\source\repos\실습9주차\실습9주차\func.c(49): warning C4715: 'print_CAR': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\ansal\source\repos\실습9주차\실습9주차\func.c(79): warning C4716: 'player_set': 값을 반환해야 합니다.
+  실습9주차.vcxproj -> C:\Users\ansal\source\repos\실습9주차\Debug\실습9주차.exe
