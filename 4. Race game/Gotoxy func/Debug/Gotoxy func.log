@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ansal\source\repos\gotoxy func\gotoxy func\main.c(31): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+  Gotoxy func.vcxproj -> C:\Users\ansal\source\repos\Gotoxy func\Debug\Gotoxy func.exe
