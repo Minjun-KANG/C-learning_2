@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실습5(다중 별 찍기)", "실습5(다중 별 찍기)\실습5(다중 별 찍기).vcxproj", "{879F7446-4E8E-498A-BFE7-5117E41227AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Debug|x64.ActiveCfg = Debug|x64
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Debug|x64.Build.0 = Debug|x64
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Debug|x86.Build.0 = Debug|Win32
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Release|x64.ActiveCfg = Release|x64
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Release|x64.Build.0 = Release|x64
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Release|x86.ActiveCfg = Release|Win32
+		{879F7446-4E8E-498A-BFE7-5117E41227AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512C7DCF-80B3-4C78-93A9-C3D23E11D273}
+	EndGlobalSection
+EndGlobal

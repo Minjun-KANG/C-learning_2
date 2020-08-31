@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\main.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\main.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  func9.c
+  func7.c
+  func5.c
+  코드를 생성하고 있습니다...
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\func5.c(41): warning C4716: 'func5': 값을 반환해야 합니다.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\func7.c(60): warning C4716: 'func7': 값을 반환해야 합니다.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 3주차\과제3주차(주사위)\과제3주차(주사위)\func9.c(48): warning C4716: 'func9': 값을 반환해야 합니다.
+  과제3주차(주사위).vcxproj -> C:\Users\ansal\OneDrive\Desktop\university office\2018-1학기\SW\실습 + 과제 3주차\과제3주차(주사위)\Debug\과제3주차(주사위).exe
