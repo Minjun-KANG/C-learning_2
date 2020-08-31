@@ -3,6 +3,8 @@ This is the advanced learning of C language covered in 2018. It deals with simpl
 
 Hello, I am Minjun-KANG. This directory contains simple algorithms and methods of moving the cursor to print on the console.
 
+* The file is written in Korean.
+
 contents
 
 1. Print dice
