@@ -1,0 +1,8 @@
+﻿  main.c
+  user_function_define.c
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 5주차\과제 5주차\과제 5주차\user_function_define.c(55): warning C4047: '함수': 'int (*)[10]'의 간접 참조 수준이 'int [10]'과(와) 다릅니다.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 5주차\과제 5주차\과제 5주차\user_function_define.c(55): warning C4024: 'print_array': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 5주차\과제 5주차\과제 5주차\user_function_define.c(56): warning C4047: '함수': 'int (*)[10]'의 간접 참조 수준이 'int [10]'과(와) 다릅니다.
+c:\users\ansal\onedrive\desktop\university office\2018-1학기\sw\실습 + 과제 5주차\과제 5주차\과제 5주차\user_function_define.c(56): warning C4024: 'score_array': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  코드를 생성하고 있습니다...
+  과제 5주차.vcxproj -> C:\Users\ansal\OneDrive\Desktop\university office\2018-1학기\SW\실습 + 과제 5주차\과제 5주차\Debug\과제 5주차.exe
